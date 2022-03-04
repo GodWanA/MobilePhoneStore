@@ -1,0 +1,59 @@
+.label{
+    -fx-padding: 12 15;
+}
+
+#cb_gyarto{
+    -fx-pref-width: 200;
+    -fx-pref-height: 28;
+    -fx-padding: 4px 0;
+    -fx-margin-top: 2;
+}
+
+#smb_tipus{
+    -fx-pref-width: 200;
+    -fx-pref-height: 28;
+    -fx-padding: 2px 0;
+    -fx-margin-top: 2;
+}
+
+.radio-button{
+    -fx-padding: 10 15;
+    -fx-margin-top: 2;
+}
+
+.choice-box{
+    -fx-pref-width: 200;
+    -fx-pref-height: 28;    
+    -fx-margin-top: 2;
+}
+
+#lv_size{
+    -fx-pref-width: 200;
+    -fx-pref-height: 120;
+}
+
+.button{
+    -fx-pref-height: 32;
+    -fx-pref-width: 80;
+}
+
+#hb_gombok{
+    -fx-padding: 10 10 10 0;
+}
+
+.menu, .menu-item{
+    -fx-pref-height: 24;
+    -fx-padding: 0 10;
+}
+
+.menu-bar{
+    -fx-padding: 0;
+}
+
+#b_pw{
+    -fx-pref-width: 160;
+}
+
+#pf_pw{
+    -fx-pref-width: 270;
+}
